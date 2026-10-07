@@ -1,5 +1,5 @@
-A = int(input("Enter the first number:"))
-B = int(input("Enter the second number:"))
+A = int(input("Enter the first number:  "))
+B = int(input("Enter the second number: "))
 
 print(f"{A} x {B} = {A*B}")
 
